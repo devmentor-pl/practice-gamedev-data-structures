@@ -4,7 +4,14 @@
 
 # `#02` GameDev: Struktury danych
 
-Tutaj treść
+## Operacje na liście liczb
+
+Napisz program, który wczytuje od użytkownika listę liczb (użytkownik najpierw wpisuje ilość liczb, a potem każdą po kolei), a następnie oblicza i wyświetla:
+1. Najmniejszą liczbę
+2. Największą liczbę
+3. Sumę wszystkich liczb
+4. Średnią arytmetyczną wszystkich liczb
+5. Medianę
 
 
 &nbsp;
