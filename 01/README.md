@@ -8,10 +8,10 @@
 
 FizzBuzz to jedno z najpopularniejszych ćwiczeń programistych, często wykorzystywane podczas rozmów o pracę.
 Twoim zadaniem jest napisać program, który będzie odliczał od 1 do 100, według następujących zasad:
-- jeżeli liczba jest podzielna przez 3, napisz "Fizz"
-- jeżeli liczba jest podzielna przez 5, napisz "Buzz"
-- jeżeli liczba jest podzielna przez 3 i przez 5, napisz "FizzBuzz"
-- w pozostałych przypadkach napisz liczbę
+- jeżeli liczba jest podzielna przez 3, napisz "Fizz";
+- jeżeli liczba jest podzielna przez 5, napisz "Buzz";
+- jeżeli liczba jest podzielna przez 3 i przez 5, napisz "FizzBuzz";
+- w pozostałych przypadkach napisz liczbę;
 
 Przykładowe pierwsze 20 komunikatów:
 ```

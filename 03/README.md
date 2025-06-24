@@ -7,8 +7,8 @@
 ## Szachownica
 
 Zapytaj użytkownika o rozmiar szachownicy (min. 3, max 9). Następnie, wygeneruj tablicę dwuwymiarową typu `bool`, w której wszystkie pola "czarne" mają wartość `true`, a wszystkie pola "białe" wartość `false`. Po wygenerowaniu szachownicy, wyświetl ją, stosując się do tych zasad:
-- pola "czarne" są wyświetlane jako `##`
-- pola białe są wyświetlane jako litera kolumny oraz numer wiersza (np. `A5`)
+- pola "czarne" są wyświetlane jako `##`;
+- pola białe są wyświetlane jako litera kolumny oraz numer wiersza (np. `A5`);
 
 Przykładowa szachownica o rozmiarze 3:
 ```

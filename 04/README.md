@@ -6,9 +6,11 @@
 
 ## Analiza tekstu
 Napisz program, który odczytuje od użytkownika dwie linijki tekstu. Następnie, zanalizuj i porównaj je ze sobą, i wyświetl następujące informacje:
-1. Litery, które wystąpiły w obu linijkach tekstu
-2. Litery, które wystąpiły jedynie w pierwszej linijce tekstu
-3. Litery, które wystąpiły jedynie w drugiej linijce tekstu
+1. Litery, które wystąpiły w obu linijkach tekstu;
+2. Litery, które wystąpiły jedynie w pierwszej linijce tekstu;
+3. Litery, które wystąpiły jedynie w drugiej linijce tekstu;
+
+Pamiętaj, że `string` to dosłownie łańcuch znaków, czyli można go traktować niczym tablicę typu `char` - posługiwać się indeksami, pętlą `for`, etc. Do analizy tekstu zaś przyda się rachunek zbiorów i kolekcja `HashSet<T>`.
 
 
 &nbsp;

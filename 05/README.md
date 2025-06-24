@@ -6,10 +6,10 @@
 
 ## Biblioteka
 
-Napisz program, który pozwala na przechowywanie informacji o książkach i ich autorach.
-- Użytkownik może wybrać opcję dodania nowej książki, lub wyświetlenia aktualnych informacji
-- Wyświetlenie aktualnych informacji wypisuje wszystkich autorów, a pod każdym z nich, wypisuje tytuły jego książek
-- Dodając nową książkę, użytkownik podaje jej tytuł oraz autora
+Napisz program, który pozwala na przechowywanie informacji o książkach i ich autorach:
+- Użytkownik może wybrać opcję dodania nowej książki, lub wyświetlenia aktualnych informacji;
+- Wyświetlenie aktualnych informacji wypisuje wszystkich autorów, a pod każdym z nich, wypisuje tytuły jego książek;
+- Dodając nową książkę, użytkownik podaje jej tytuł oraz autora;
 
 Przykładowe wyświetlenie aktualnych informacji, po dodaniu kilku książek:
 ```

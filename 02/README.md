@@ -7,11 +7,11 @@
 ## Operacje na liście liczb
 
 Napisz program, który wczytuje od użytkownika listę liczb (użytkownik najpierw wpisuje ilość liczb, a potem każdą po kolei), a następnie oblicza i wyświetla:
-1. Najmniejszą liczbę
-2. Największą liczbę
-3. Sumę wszystkich liczb
-4. Średnią arytmetyczną wszystkich liczb
-5. Medianę
+1. Najmniejszą liczbę;
+2. Największą liczbę;
+3. Sumę wszystkich liczb;
+4. Średnią arytmetyczną wszystkich liczb (czyli sumę podzieloną przez ilość);
+5. Medianę (tzw. wartość środkowa, czyli wartość znajdująca się dokładnie w połowie zbioru);
 
 
 &nbsp;
